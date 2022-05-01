@@ -1,2 +1,0 @@
-003_cat_pagesize_cmd_imp.c
-004_ech0_cmd_imp.c
